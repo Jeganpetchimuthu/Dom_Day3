@@ -1,0 +1,13 @@
+.form-container {
+  border: 1px solid rgb(16, 16, 16);
+  margin-left: 70px;
+  margin-right: 120px;
+  background-color: white;
+  border-radius: 5px;
+}
+.form-table {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 500px;
+  color: gray;
+}
